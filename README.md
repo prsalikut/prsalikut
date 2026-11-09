@@ -1,6 +1,6 @@
 ### Pranay Salikuti
 
-Student in Hyderabad. I build hardware and software, and run a few small companies.
+Student in Hyderabad.
 
 - **[rentcompute.net](https://rentcompute.net)**: founder. Peer-to-peer marketplace for renting CPUs, GPUs, VPNs and proxies.
 - **[ClipItX](https://clipitx.ai)**: cofounder. AI clip maker and studio.
