@@ -3,7 +3,6 @@
 Student in Hyderabad.
 
 - **[rentcompute.net](https://rentcompute.net)**: founder. Peer-to-peer marketplace for renting CPUs, GPUs, VPNs and proxies.
-- **[ClipItX](https://clipitx.ai)**: cofounder. AI clip maker and studio.
 - **[extruded.in](https://extruded.in)**: founder. 3D printing in Hyderabad.
 - **IEEE**: [Forecasting Models for Long-Term Solar Energy Trends: A Weather-Driven Study in Rural India](https://ieeexplore.ieee.org/document/11648875)
 - **WRO India nationals** in 2023, 2024 and 2026 (Future Engineers). Top 15 in 2024.
